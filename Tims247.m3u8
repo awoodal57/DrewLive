@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="LaCrosse Speedway" tvg-logo="https://files.catbox.moe/8vjyil.png" group-title="Tims247 - Events",LaCrosse Speedway
+#EXTVLCOPT:http-origin=https://timstreams.xyz
+#EXTVLCOPT:http-referer=https://timstreams.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://thegraveplayer.win/embed/332a59ead6063c535e0532d7069e2f28
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="Bristol Motor Speedway" tvg-logo="https://litter.catbox.moe/8bry68bx8wjah4e0.jpg" group-title="Tims247 - Events",Bristol Motor Speedway
 #EXTVLCOPT:http-origin=https://timstreams.xyz
 #EXTVLCOPT:http-referer=https://timstreams.xyz/
@@ -9,6 +14,11 @@ https://thegraveplayer.win/embed/fe19452d47bf823735dbb6fc5646c1c0
 #EXTVLCOPT:http-referer=https://timstreams.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://thegraveplayer.win/embed/c686998709c626f8b57519dd98086761
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="Cedar County Raceway" tvg-logo="https://files.catbox.moe/tur9gw.png" group-title="Tims247 - Events",Cedar County Raceway
+#EXTVLCOPT:http-origin=https://timstreams.xyz
+#EXTVLCOPT:http-referer=https://timstreams.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://thegraveplayer.win/embed/7305f97f17b45dbd4b6ab11c207bec2b
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="San Francisco 49ers vs. Los Angeles Rams - Source 1" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/yd19he1748641149.jpg" group-title="Tims247 - Events",San Francisco 49ers vs. Los Angeles Rams - Source 1
 #EXTVLCOPT:http-origin=https://timstreams.xyz
 #EXTVLCOPT:http-referer=https://timstreams.xyz/
