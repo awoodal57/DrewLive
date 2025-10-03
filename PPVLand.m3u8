@@ -3,7 +3,7 @@
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/bundesliga_hoffenheim/index.m3u8
+https://gg.poocloud.in/bundesliga_hoffenheim/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/06ae378b4b8a7b216582af8e4a48ea84-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Bournemouth vs. Fulham
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -13,12 +13,12 @@ https://gg.poocloud.in/epl_bournemouth/index.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/laliga_c-a-osasuna/index.m3u8
+https://gg.poocloud.in/laliga_c-a-osasuna/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e9bdd5d7cd1e8c0dc6cdc41de8c2ea8d-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Leeds United vs. Tottenham Hotspur
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/laliga_c-a-osasuna/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/epl_leeds/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/5a7e27854dfcc2bb10e15dd86eb7469d-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Real Oviedo vs. Levante UD
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -179,6 +179,11 @@ https://gg.poocloud.in/ligue1_havre-ac/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/ligue1_as-monaco/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/5b8e40ee22de58c37a037c1032c96709-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Strasbourg vs. Angers SCO
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/ligue1_strasbourg/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/77ac4a1b6eea544138e7f8a500d36d93-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Brentford vs. Manchester City
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -238,22 +243,22 @@ https://gg.poocloud.in/wrestling/index.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/southpark/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="PPVLand - Live Channels 24/7",24/7 COWS
+https://gg.poocloud.in/southpark/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family​​‌‌​‌​​‌​‌​‌‌​‌‌​‌​​​‌​​‌‌​​​‌​ Guy
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/southpark/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family​​‌‌​​​​‌‌​‌​‌‌​​​‌‌​‌‌​​​‌​​​‌​ Guy
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/familyguy/index.m3u8
+https://gg.poocloud.in/familyguy/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 The Simpsons
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/thesimpsons/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/3318d214b8e93968170bdf6166113a1d-thumbnail.jpg" group-title="PPVLand - Live Now",PFL Champions Series: Dubai
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/pfl/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/45f3cdcbdda51990b7f450f1175f8f38-thumbnail.jpg" group-title="PPVLand - Live Now",Monster Energy FIM Motocross of Nations (Day 1)
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
