@@ -89,7 +89,7 @@ https://livecdn.use1-0004.jwplive.com/live/sites/HGOnqYhO/media/i9sjcGbc/live.is
 http://38.143.48.212:9981/stream/channelid/2009202451?profile=pass
 #EXTINF:-1 tvg-id="cpac.francais.ca" tvg-logo="https://media.starlite.best/cpac.francais.ca.png" group-title="AriaPlus - Canada",CPAC
 http://38.143.48.212:9981/stream/channelid/1514524920?profile=pass
-#EXTINF:-1 tvg-id="CTV.News.Channel.ca" tvg-logo="https://media.starlite.best/ctv.news.channel.ca.png" group-title="AriaPlus - Canada",CTV News
+#EXTINF:-1 tvg-id="CTV.News.Channel.ca" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CTV-News-Channel-Reverse-Screen-Logo-The-Lede-1.png?auto=format&q=60&crop=faces%2C%20edges&ixlib=react-9.8.1" group-title="AriaPlus - Canada",CTV News Channel
 http://38.143.48.212:9981/stream/channelid/1877863586?profile=pass
 #EXTINF:-1 tvg-id="CTV.Comedy.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-comedy-channel-ca.png" group-title="AriaPlus - Canada",CTV Comedy
 http://38.143.48.212:9981/stream/channelid/874242496?profile=pass
@@ -119,7 +119,7 @@ http://38.143.48.212:9981/stream/channelid/1724607227?profile=pass
 http://38.143.48.212:9981/stream/channelid/1724607227?profile=pass
 #EXTINF:-1 tvg-id="FX.Networks.Canada.ca" tvg-logo="https://media.starlite.best/fx.networks.ca.png" group-title="AriaPlus - Canada",FX Canada
 http://38.143.48.212:9981/stream/channelid/1924145856?profile=pass
-#EXTINF:-1 tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://i.ibb.co/0y1WZRV0/Global-Television-Network-2019-logo-svg.png" group-title="AriaPlus - Canada",Global Toronto (CIII)
+#EXTINF:-1 tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://assets.vms.corusappservices.com/upload/staging/Global-Toronto_GuideLogo_240x144.png" group-title="AriaPlus - Canada",Global Toronto (CIII)
 http://38.143.48.212:9981/stream/channelid/41831820?profile=pass
 #EXTINF:-1 tvg-id="History.Canada.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/history-channel-ca.png" group-title="AriaPlus - Canada",History
 http://38.143.48.212:9981/stream/channelid/399303638?profile=pass
@@ -615,7 +615,7 @@ http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40758.ts
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40760.ts
 #EXTINF:-1 tvg-id="CHCH.Hamilton.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/chch-ca.png" group-title="AriaPlus - Canada",CHCH (CHCH-DT)
 http://38.143.48.212:9981/stream/channelid/834583504?profile=pass
-#EXTINF:-1 tvg-id="CHCH.Hamilton.ON.ca" tvg-logo="https://harbourcats.com/wp-content/uploads/2017/06/CHEK_logo_2022.svg_.png" group-title="AriaPlus - Canada",CHEK (CHEK-DT)
+#EXTINF:-1 tvg-id="CHEK.Victoria.BC.ca" tvg-logo="https://harbourcats.com/wp-content/uploads/2017/06/CHEK_logo_2022.svg_.png" group-title="AriaPlus - Canada",CHEK (CHEK-DT)
 https://livecdn.use1-0004.jwplive.com/live/sites/HGOnqYhO/media/i9sjcGbc/live.isml/.mpd
 #EXTINF:-1 tvg-id="CITY.Toronto.ON.ca" tvg-logo="https://media.starlite.best/city.toronto.on.ca.png" group-title="AriaPlus - Canada",CityTV Toronto
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40752.ts
@@ -695,11 +695,11 @@ http://speccy.pw:8080/live/111111/111111/316980.ts
 http://user.scalecdn.co:8080/live/26725074/92867131/3103.ts
 #EXTINF:-1 tvg-id="Game.Plus.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/game-plus-ca.png" group-title="AriaPlus - Canada",Game+
 http://user.scalecdn.co:8080/live/26725074/92867131/3081.ts
-#EXTINF:-1 tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://i.ibb.co/0y1WZRV0/Global-Television-Network-2019-logo-svg.png" group-title="AriaPlus - Canada",Global Toronto (CIII)
+#EXTINF:-1 tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://assets.vms.corusappservices.com/upload/staging/Global-Toronto_GuideLogo_240x144.png" group-title="AriaPlus - Canada",Global Toronto (CIII-DT)
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40703.ts
-#EXTINF:-1 tvg-id="global.bc.ca" tvg-logo="https://i.ibb.co/Df6301Pz/images.png" group-title="AriaPlus - Canada",Global BC
+#EXTINF:-1 tvg-id="global.bc.ca" tvg-logo="https://assets.vms.corusappservices.com/upload/staging/Global-BC_GuideLogo_240x144.png" group-title="AriaPlus - Canada",Global BC (CHAN-DT)
 http://speccy.pw:8080/live/111111/111111/316989.ts
-#EXTINF:-1 tvg-id="Global.Halifax.(CIHF).ca" tvg-logo="https://i.ibb.co/0y1WZRV0/Global-Television-Network-2019-logo-svg.png" group-title="AriaPlus - Canada",Global Maritimes
+#EXTINF:-1 tvg-id="Global.Halifax.(CIHF).ca" tvg-logo="https://assets.vms.corusappservices.com/upload/staging/Global-Maritimes_GuideLogo_240x144.png" group-title="AriaPlus - Canada",Global Maritimes (CIHF-DT)
 http://user.scalecdn.co:8080/live/26725074/92867131/88027.ts
 #EXTINF:-1 tvg-id="Global.News.BC1.ca" tvg-logo="https://globalnews.ca/wp-content/uploads/2015/01/BC1-pos-hor.png?w=320" group-title="AriaPlus - Canada",Global News BC1
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112775.ts
@@ -731,11 +731,11 @@ https://tvnow.best/api/stream/burns/burns/livetv.epg/do.it.yourself.network.cana
 https://tvnow.best/api/stream/burns/burns/livetv.epg/makeful.ca.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/mediaset-itaila-ca.png" group-title="AriaPlus - Canada",Mediaset Italia
 http://user.scalecdn.co:8080/live/26725074/92867131/3286.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="AriaPlus - Canada",Mediaset TGCOM 24
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Mediaset_TGCOM_24_logo.png" group-title="AriaPlus - Canada",Mediaset TGCOM 24
 http://user.scalecdn.co:8080/live/26725074/92867131/93043.ts
 #EXTINF:-1 tvg-id="MovieTime.ca" tvg-logo="https://media.starlite.best/movietime.ca.png" group-title="AriaPlus - Canada",Movie Time
 http://38.143.48.212:9981/stream/channelid/1403847081?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik0rUt8A8pfM5PLHOw-La3mLukPvJv89DF6F7RBTpVY1M.png" group-title="AriaPlus - Canada",MIRACLE
+#EXTINF:-1 tvg-id="" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik0rUt8A8pfM5PLHOw-La3mLukPvJv89DF6F7RBTpVY1M.png" group-title="AriaPlus - Canada",Miracle
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40681.ts
 #EXTINF:-1 tvg-id="much.music.ca" tvg-logo="https://media.starlite.best/much.music.ca.png" group-title="AriaPlus - Canada",Much
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112805.ts
@@ -803,7 +803,7 @@ http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112833.ts
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112847.ts
 #EXTINF:-1 tvg-id="Telebimbi.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/TeleBimbi.png" group-title="AriaPlus - Canada",TeleBimbi
 http://tr.redatvgold.com/play/live.php?mac=00:1A:79:76:27:B6&stream=1423377&extension=ts
-#EXTINF:-1 tvg-id="Teleninos.ca" tvg-logo="" group-title="AriaPlus - Canada",TeleNiños
+#EXTINF:-1 tvg-id="Teleninos.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/TeleNi%C3%B1os_Logo.png" group-title="AriaPlus - Canada",TeleNiños
 https://m3ufilter.media4u.top/live/media4u/media4u/2957.ts
 #EXTINF:-1 tvg-id="TLN.ca" tvg-logo="https://i.ibb.co/cKnhRZX6/TLN-2015.png" group-title="AriaPlus - Canada",TLN
 https://tvnow.best/api/stream/burns/burns/livetv.epg/tln.west.ca.m3u8
