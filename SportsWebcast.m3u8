@@ -84,16 +84,6 @@ https://live.webcastserver.online/hdstream/embed/65.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTVLCOPT:http-origin=https://nhlwebcast.com/200
 https://live.webcastserver.online/hdstream/embed/62.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Ducks @ Kings" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHLWebcast 🏒 - Live Games",Ducks @ Kings
-#EXTVLCOPT:http-referrer=https://nhlwebcast.com/200
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#EXTVLCOPT:http-origin=https://nhlwebcast.com/200
-https://live.webcastserver.online/hdstream/embed/69.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Hurricanes @ Predators" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHLWebcast 🏒 - Live Games",Hurricanes @ Predators
-#EXTVLCOPT:http-referrer=https://nhlwebcast.com/200
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#EXTVLCOPT:http-origin=https://nhlwebcast.com/200
-https://live.webcastserver.online/hdstream/embed/72.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Jackets @ Capitals" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHLWebcast 🏒 - Live Games",Jackets @ Capitals
 #EXTVLCOPT:http-referrer=https://nhlwebcast.com/200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
