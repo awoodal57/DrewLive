@@ -44,13 +44,8 @@ https://live.webcastserver.online/hdstream/embed/434.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTVLCOPT:http-origin=https://mlbwebcast.com/
 https://live.webcastserver.online/hdstream/embed/364.m3u8
-#EXTINF:-1 tvg-id="MLS.Soccer.Dummy.us" tvg-name="Atlanta @ Los Angeles" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="MLSWebcast ⚽ - Live Games",Atlanta @ Los Angeles
+#EXTINF:-1 tvg-id="MLS.Soccer.Dummy.us" tvg-name="Toronto @ Los Angeles" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="MLSWebcast ⚽ - Live Games",Toronto @ Los Angeles
 #EXTVLCOPT:http-referrer=https://mlswebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTVLCOPT:http-origin=https://mlswebcast.com/
 https://live.webcastserver.online/hdstream/embed/497.m3u8
-#EXTINF:-1 tvg-id="MLS.Soccer.Dummy.us" tvg-name="Earthquakes @ Vancouver" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="MLSWebcast ⚽ - Live Games",Earthquakes @ Vancouver
-#EXTVLCOPT:http-referrer=https://mlswebcast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#EXTVLCOPT:http-origin=https://mlswebcast.com/
-https://live.webcastserver.online/hdstream/embed/513.m3u8
